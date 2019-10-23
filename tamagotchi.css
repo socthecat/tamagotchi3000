@@ -1,0 +1,6 @@
+:root {
+    --main-color: #30573c;
+  }
+html, body {margin: 0; padding: 0; font-family: 'Press Start 2P', cursive; color: var(--main-color);}
+* {box-sizing:border-box;}
+a {text-decoration: none;}
